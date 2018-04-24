@@ -2,15 +2,15 @@
   "dependencies": [
     [
       "jquery",
-      "1.0.0"
+      "3.3.1"
     ],
     [
       "meteor",
-      "1.0.2"
+      "1.6.1"
     ],
     [
-      "underscore",
-      "1.0.0"
+      "loadsh",
+      "4.17.4"
     ]
   ],
   "pluginDependencies": [],
